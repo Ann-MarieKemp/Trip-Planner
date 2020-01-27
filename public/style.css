@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #C1B5AD;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+
+.hotels{
+  background-image: url("http://i.imgur.com/D9574Cu.png");
+  width: 32px;
+  height: 39px;
+}
+
+.restaurants{
+    background-image: url("http://i.imgur.com/cqR6pUI.png");
+    width: 32px;
+    height: 39px;
+}
+
+.activity{
+  background-image: url("http://i.imgur.com/WbMOfMl.png");
+  width: 32px;
+  height: 39px;
+
+}
+
+
